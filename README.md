@@ -11,7 +11,7 @@ The C preprocessor doesn't deal with high-level C syntax.
 In the example, the macro `SIX` expands to the token sequence `1 + 5`,
 and the macro `NINE` expands to `8 + 1`.  If each of these expressions
 were evaluated on its own, the results would be 6 and 9, respectively,
-But when they'e combined in the expression `SIX * NINE`, the expansion is:
+But when they're combined in the expression `SIX * NINE`, the expansion is:
 
     1+5*8+1
 
