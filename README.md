@@ -23,4 +23,4 @@ or 42.
 
 The program is also a reference to [a joke](http://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy#Answer_to_the_Ultimate_Question_of_Life.2C_the_Universe.2C_and_Everything_.2842.29) in The Hitchhiker's Guide to the Galaxy, by Douglas Adams.
 
-    -- Keith Thompson <Keith.S.Thompson@gmail.com> Tue 2011-11-01
+-- Keith Thompson <Keith.S.Thompson@gmail.com> Tue 2011-11-01
