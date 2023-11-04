@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-#define SIX 1+5
-#define NINE 8+1
+#define SIX 3+3
+#define NINE 15-6
 
 int main(void)
 {
