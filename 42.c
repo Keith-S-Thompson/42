@@ -16,6 +16,6 @@
 
 int main(void)
 {
-    printf("%d * %d = %d\n", SIX, NINE, SIX * NINE);
+    printf("%d × %d = %d\n", SIX, NINE, SIX * NINE);
     return 0;
 }
