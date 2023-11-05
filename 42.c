@@ -3,7 +3,7 @@
 #if defined ORIGINAL
 /* retained for literary criticism */
 #define SIX 1+5
-#define MINE 8+1
+#define NINE 8+1
 #elif ! defined INSANE
 /* a sensible reimplementation */
 #define SIX 3+3
