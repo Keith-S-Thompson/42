@@ -1,5 +1,16 @@
-This small C program demonstrates the danger of improper use of the
-C preprocessor.
+This small C program (included inline here and in `42.c`) demonstrates
+the danger of improper use of the C preprocessor.
+
+```
+#include <stdio.h>
+
+#define SIX 1+5
+#define NINE 8+1
+
+int main(void) {
+    printf("%d * %d = %d\n", SIX, NINE, SIX * NINE);
+}
+```
 
 A macro that's intended to be used in an expression context generally
 needs to be aggressively parenthesized.  You should have parentheses
